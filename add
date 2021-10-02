@@ -1,0 +1,14 @@
+#include <stdio.h>    
+     
+int main()    
+{    
+    int a = 5;
+    int b = 6;
+    int c = a + b;
+    printf("\n");    
+        
+    //Displaying elements of array after sorting    
+    printf("Adding the two elements: \n");    
+    printf("%d ", c);           
+    return 0;    
+}     
